@@ -4,3 +4,6 @@ Assignment repository for UNT CSCE1015
 
 # EUID
 saa0588
+
+# Professor
+Ms. Julie Thompson
